@@ -112,7 +112,7 @@ void execute_instruction(Instruction instr) {
             
             break;
         default:
-            printf("Instrução desconhecida!\n");
+            printf("Instruçao desconhecida!\n");
     }
 }
 
